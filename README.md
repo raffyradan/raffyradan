@@ -11,7 +11,6 @@
   -  [Cryptography using Python](https://github.com/raffyradan/Cryptography-Python)
   -  [Message Encryption and Decryption Using AES](https://github.com/raffyradan/Message-Encryption-and-Decryption-Using-AES)
   -  [Log File Analysis for Security Alerts](https://github.com/raffyradan/Logfile-analysis-security)
-  -  [Detect Access to Restricted or Suspicious URLs](https://github.com/raffyradan/Detect-suspicious-URL)
   -  [Malware Detection in a Client’s File Storage Space using YARA](https://github.com/raffyradan/Malware-file-detection-yara)
 
 ## 📜 Certifications
